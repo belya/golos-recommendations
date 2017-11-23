@@ -1,0 +1,2 @@
+./golos-corpora.dict filter=lfs diff=lfs merge=lfs -text
+./golos-corpora.lda_model filter=lfs diff=lfs merge=lfs -text
